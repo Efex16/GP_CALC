@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="students">
+        <item> </item>
+        <item>Efe Osadalor</item>
+        <item>Cj</item>
+        <item>Mike</item>
+        <item>Vickey</item>
+        <item>Madam Efe</item>
+        <item>Bon</item>
+    </string-array>
+
+    <string-array name="base_gpa">
+        <item>4.00</item>
+        <item>5.00</item>
+    </string-array>
+</resources>

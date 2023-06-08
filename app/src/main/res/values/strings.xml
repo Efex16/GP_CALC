@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GP CALC.</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_fragment_label">LogIn</string>
+    <string name="gpa_fragment_label">GPA CALC</string>
+    <string name="btn_logout_text">LogOut</string>
+
+
+    <string name="gp">   GP:=</string>
+    <string name="score">SCORE=</string>
+    <string name="unit">CREDIT UNIT</string>
+    <string name="grade">GRADE</string>
+    <string name="course_code">COURSE CODE</string>
+    <string name="admin_login_header">Admin Login</string>
+    <string name="email_address_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="login">login</string>
+    <string name="btn_gpa_compute_text">Compute</string>
+</resources>

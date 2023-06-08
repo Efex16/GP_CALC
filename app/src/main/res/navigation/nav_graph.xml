@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/admin_login_fragment">
+
+    <fragment
+        android:id="@+id/admin_login_fragment"
+        android:name="com.yonevas.gpcalc.AdminLoginFragment"
+        android:label="@string/login_fragment_label"
+        tools:layout="@layout/fragment_admin_login">
+
+        <action
+            android:id="@+id/action_LoginFragment_to_GPAFragment"
+            app:destination="@id/GPAFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/GPAFragment"
+        android:name="com.yonevas.gpcalc.SecondFragment"
+        android:label="@string/gpa_fragment_label"
+        tools:layout="@layout/fragment_second">
+
+        <action
+            android:id="@+id/action_GPAFragment_to_LoginFragment"
+            app:destination="@id/admin_login_fragment" />
+    </fragment>
+</navigation>
