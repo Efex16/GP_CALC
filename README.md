@@ -105,5 +105,6 @@ S
 - I intend in integrating a link for the output of the portfolio to be an input to the school result database.
 
 [Github](https://github.com/efex16)
+
 https://www.linkedin.com/posts/elijah-efe-osadolor-1a4848148_android-application-portfolio-project-activity-7074461240168751104-KCRJ?utm_source=share&utm_medium=member_desktop
 
