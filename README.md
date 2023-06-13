@@ -105,5 +105,3 @@ S
 - I intend in integrating a link for the output of the portfolio to be an input to the school result database.
 
 [Github](https://github.com/efex16)
-[LinkedIn](https://www.linkedin.com/in/david-kwan-1b0930129/)
-[Twitter](https://twitter.com/davidwkwan)
