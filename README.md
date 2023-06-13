@@ -11,7 +11,7 @@
 
 ## GP_CALC
 
-GP_CALC is an android app that can accept inputted courses score and calculate the Grade Point Average (GPA) of a maximum of 9 courses being offered on a grade scale of 4.00 and 5.00.
+The growth in the use of android applications (Apps) has made it the most popular smart device operating system in use nowadays. Android has over 76% of the mobile operating system; they are also becoming the most used electronics globally. Students of higher institutions of learning are also becoming accustomed to the use of applications such that they want everything available for them on their mobile device if possible. This blog deals on an android application GP_CALC, that will aid authorized administrative staff to input courses score and calculate the Grade Point Average (GPA) of a maximum of 9 courses being offered on a base grade scale of 4.00 and 5.00.           
 
 ## Team
 
@@ -19,13 +19,11 @@ This project was solely written by Elijah Efe-Osadolor (Efex16).
 
 ## Technologies
 
-### Compiller
-
-- Extensible Markup Language (XML) 1.0
+Java: The Java Programming Language (otherwise called java) is described as a general-purpose, concurrent, strongly typed, class-based object-oriented language which is normally compiled to the byte code instruction set and binary format defined in the Java Virtual Machine Specification. It has architecture similar to C++ and also has the “look and feel” of the C++ language. Java is useful in the design of full applications that can run on a single computer and/or be distributed and allocated among servers and client in the network. It can also be used to design applets. The java code is what we used for building this application and its user interface. Thus, the java codes were used in the design of this application, since it is quite suitable for that. XML which is the abbreviation for Extensible Markup Language is a markup language which defines a group or set of collection of rules for encoding a record in a style which both human and machine can read. The design aim of XML lay more emphasis on simplicity, generality and it is easy to use across the internet. XML is also applicable in the representation of arbitrary data structures like those which are used in web services.
 
 ### Tools
 
-- Android Studio
+Android Studio: The official Integrated Development Environment (IDE) for the Android App development is the Android studio. It was built on JetBrain’s IntelliJ IDEA software. That was what we used in the development of this application. Android SDK: This is the Software Development Kit which allow developers to design applications for the Android platform. The SDK has the source code, development tools, an emulator and libraries for developing the Android applications using java. 
 
 ### Programming Language
 
