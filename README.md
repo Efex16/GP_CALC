@@ -83,7 +83,7 @@ Sometimes, I’m searching for an implementation of a certain widget or function
 
 ## Risks
 
-I built an internal RESTful API for this web application so that data can be flexibly retreived from the MySQLdb. All available endpoints can be found in the `api.v1.views` directory. Here's a description of each endpoint:
+I 
      
 ## Infrastructure
 
@@ -96,13 +96,7 @@ I built an internal RESTful API for this web application so that data can be fle
 
 ## Existing Solutions
 
-Shout-out to [Open Lyrics Database](https://github.com/Lyrics/lyrics) for the lyrics shown!
-
-Licenses for images from Wikimedia Commons:
-
-* [The xx at the Alcatraz.jpg](https://commons.wikimedia.org/wiki/File:The_xx_at_the_Alcatraz.jpg)
-* [Adele Live 2016 tour.jpeg](https://commons.wikimedia.org/wiki/File:Adele_Live_2016_tour.jpeg)
-* [Paul Simonon The Clash September 20 1979 Palladium NYC.jpg](https://commons.wikimedia.org/wiki/File:Paul_Simonon_The_Clash_September_20_1979_Palladium_NYC.jpg)
+S
 
 ## Future
 
